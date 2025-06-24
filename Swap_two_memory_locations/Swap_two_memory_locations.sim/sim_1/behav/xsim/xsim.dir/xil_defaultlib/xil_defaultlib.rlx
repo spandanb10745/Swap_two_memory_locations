@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Users/spand/Swap_two_memory_locations/Swap_two_memory_locations.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+C:/Users/spand/Swap_two_memory_locations/Swap_two_memory_locations.srcs/sim_1/new/swap_reg_file_tb.v,1750741396,verilog,,,,swap_reg_file_tb,,,,,,,,
+C:/Users/spand/Swap_two_memory_locations/Swap_two_memory_locations.srcs/sources_1/new/mux_4x1_nbit.v,1750739289,verilog,,C:/Users/spand/Swap_two_memory_locations/Swap_two_memory_locations.srcs/sources_1/new/reg_file.v,,mux_4x1_nbit,,,,,,,,
+C:/Users/spand/Swap_two_memory_locations/Swap_two_memory_locations.srcs/sources_1/new/reg_file.v,1750738120,verilog,,C:/Users/spand/Swap_two_memory_locations/Swap_two_memory_locations.srcs/sources_1/new/swap_fsm.v,,reg_file,,,,,,,,
+C:/Users/spand/Swap_two_memory_locations/Swap_two_memory_locations.srcs/sources_1/new/swap_fsm.v,1750739037,verilog,,C:/Users/spand/Swap_two_memory_locations/Swap_two_memory_locations.srcs/sources_1/new/swap_reg_file.v,,swap_fsm,,,,,,,,
+C:/Users/spand/Swap_two_memory_locations/Swap_two_memory_locations.srcs/sources_1/new/swap_reg_file.v,1750740671,verilog,,C:/Users/spand/Swap_two_memory_locations/Swap_two_memory_locations.srcs/sim_1/new/swap_reg_file_tb.v,,swap_reg_file,,,,,,,,
