@@ -23,23 +23,15 @@ Two memory addresses `A` and `B` are provided. The control FSM triggers a swap b
 - Simulated using Vivado testbench
 - Clean waveform verification
 
-## 🔧 Simulation Screenshot
-
-![Simulation Output](./images/simulation_waveform.png)  
-*Sample output of the swapping process in Vivado simulator*
 
 ## 🗂️ Schematics
 
-- [Register File Schematic](#)  
-- [Swap FSM Schematic](#)
+- [Register File Schematic](https://github.com/user-attachments/assets/2e774643-8bb5-4605-abc5-8f3ef1abbb79)  
+- [Desired Schematic](https://github.com/user-attachments/assets/34e36a0a-88d8-46f8-8e9b-f72b164ecb49)
 
-## 🧪 Testbench
 
-The testbench initializes two different values at memory locations `A` and `B`, sets the `swap` signal high, and validates whether the values are successfully exchanged in memory.
+## 🔧 Simulation Screenshot
 
-```verilog
-// Sample test sequence
-addr_A = 2'b01;
-addr_B = 2'b10;
-swap = 1'b1;
-// Observe memory values post-swap
+![Simulation Output]([./images/simulation_waveform.png](https://github.com/user-attachments/assets/540860af-b279-4201-ae77-1c5896246fad))  
+*Sample output of the swapping process in Vivado simulator*
+
