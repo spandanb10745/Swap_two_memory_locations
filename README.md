@@ -26,12 +26,11 @@ Two memory addresses `A` and `B` are provided. The control FSM triggers a swap b
 
 ## 🗂️ Schematics
 
-- [Register File Schematic]([#]https://github.com/user-attachments/assets/2e774643-8bb5-4605-abc5-8f3ef1abbb79)  
-- [Desired Schematic](https://github.com/user-attachments/assets/34e36a0a-88d8-46f8-8e9b-f72b164ecb49)
-
+![Register File](https://github.com/user-attachments/assets/2e774643-8bb5-4605-abc5-8f3ef1abbb79)  
+![Desired Schematic](https://github.com/user-attachments/assets/34e36a0a-88d8-46f8-8e9b-f72b164ecb49)
 
 ## 🔧 Simulation Screenshot
 
-![Simulation Output]([./images/simulation_waveform.png](https://github.com/user-attachments/assets/540860af-b279-4201-ae77-1c5896246fad))  
-*Sample output of the swapping process in Vivado simulator*
+![Simulation Output](https://github.com/user-attachments/assets/540860af-b279-4201-ae77-1c5896246fad) 
+
 
